@@ -386,6 +386,7 @@
   {
     if (!is_OnHome()) 
       { 
+        console.log("wrong page");
         return; 
       }
 
